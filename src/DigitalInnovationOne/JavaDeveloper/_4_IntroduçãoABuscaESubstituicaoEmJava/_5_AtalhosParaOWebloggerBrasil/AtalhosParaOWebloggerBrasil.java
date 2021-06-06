@@ -1,0 +1,4 @@
+package DigitalInnovationOne.JavaDeveloper._4_IntroduçãoABuscaESubstituicaoEmJava._5_AtalhosParaOWebloggerBrasil;
+
+public class AtalhosParaOWebloggerBrasil {
+}
