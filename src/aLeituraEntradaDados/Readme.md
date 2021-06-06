@@ -91,10 +91,12 @@ https://www.guj.com.br/t/bufferedreader-vs-scanner/115375
 ~~~~
 
 Exemplo de Solução com BufferedReader:
-- src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_2_MultiplicacaoSimples/MultiplicacaoSimples.java
+- src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_2_MultiplicacaoSimples/MultiplicacaoSimples.java<br>
+[Multiplicação Simples no Git](https://github.com/eliseusbrito/desafiosJavaColetanea/blob/master/src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_2_MultiplicacaoSimples/MultiplicacaoSimples.java)
 
 Exemplo de solução com Scanner:
-- src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_2_MultiplicacaoSimples/MultiplicacaoSimplesScanner.java
+- src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_2_MultiplicacaoSimples/MultiplicacaoSimplesScanner.java<br>
+[Multiplicação Simples com Scanner no Git](https://github.com/eliseusbrito/desafiosJavaColetanea/blob/master/src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_2_MultiplicacaoSimples/MultiplicacaoSimplesScanner.java)
 
 Observações:
 - 1) Sugerido pela DIO utilizar BufferedReader; 
@@ -111,10 +113,12 @@ Observações:
 ~~~~
 
 Exemplo de Solução com BufferedReader:
-- src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_1_VisitaNaFeira/VisitaNaFeira.java
+- src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_1_VisitaNaFeira/VisitaNaFeira.java<br>
+[Visita na Feira Git](https://github.com/eliseusbrito/desafiosJavaColetanea/blob/master/src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_1_VisitaNaFeira/VisitaNaFeira.java)
 
 Exemplo de solução com Scanner:
-- src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_1_VisitaNaFeira/VisitaNaFeiraScanner.java
+- src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_1_VisitaNaFeira/VisitaNaFeiraScanner.java<br>
+[Visita na Feira com Scanner no Git](https://github.com/eliseusbrito/desafiosJavaColetanea/blob/master/src/DigitalInnovationOne/JavaDeveloper/_1_IntroducaoAProgramacaoComJava/_1_VisitaNaFeira/VisitaNaFeiraScanner.java)
 
 Observações:
 - 1) Sugerido pela DIO utilizar BufferedReader;
@@ -124,7 +128,7 @@ Observações:
 :book: [Índice](#índice)
 
 
-#### Links
+## Links
 
 Entrada e Saída de Arquivos (IO)
 
