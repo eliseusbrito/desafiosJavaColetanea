@@ -26,8 +26,7 @@ Em seguida, imprima um inteiro N, indicando o número de palavras em que foram e
 
 #### Exemplo de Entrada	
 ~~~~
-abcdef abc abc
-abc
+abcdef abc abc abc
 .
 ~~~~
 #### Exemplo de Saída
@@ -44,6 +43,8 @@ a. = abcdef
 **Palavras Repetidas:** Deve ser mostrada somente uma vez na lista, mas na contagem de caracteres economizados deve ser considerado.
 
 **Letra Inicial --> Palavras Repetidas x Palavra unica longa:** O programa deve considerar aquela que gere uma maior economia de caracteres
+
+**Quando numero de caracteres economizados entre palavra atual 
 
 
 ### Links auxiliares

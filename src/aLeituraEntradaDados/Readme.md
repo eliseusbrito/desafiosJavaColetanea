@@ -17,7 +17,7 @@
 O Java utiliza principalmente as classes Scanner e BufferReader/StringTokenizer para fazer a leitura de dados. 
 
 
-### Classe Scanner 
+### Classe Scanner + System.in
 
 ```Scanner sc = new Scanner(System.in);```
 
@@ -50,7 +50,7 @@ Exemplo em src/aLeituraEntradaDados/xScanner.java
 
 :book: [Índice](#índice)
 
-### Classe BufferedReader e StringTokenizer
+### Classe BufferedReader + InputStreamReader + System.in + StringTokenizer
 Outra forma de entrada é utilizando a classe **BufferedReader** e **StringTokenizer**;
 
 ````
