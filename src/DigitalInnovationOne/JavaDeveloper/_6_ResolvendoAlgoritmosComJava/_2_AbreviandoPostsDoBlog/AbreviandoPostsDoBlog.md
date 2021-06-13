@@ -82,3 +82,113 @@ p. = pois
 q. = que
 t. = tive
 ~~~~
+
+#### Exemplo de Entrada 3
+~~~~
+abcdef abc abc abcdefgh abcdef abc bdge
+.
+~~~~
+#### Exemplo de Saída 3
+~~~~
+a. abc abc abcdefgh a. abc b.
+2
+a. = abcdef
+b. = bdge
+~~~~
+
+#### Exemplo de Entrada 4
+~~~~
+aaaa aaaa a aaaaa
+.
+~~~~
+#### Exemplo de Saída 4
+~~~~
+a. a. a aaaaa
+1
+a. = aaaa
+~~~~
+
+#### Exemplo de Entrada 5
+~~~~
+dwh t cohor dkvwcsg sqoqms b a
+.
+~~~~
+#### Exemplo de Saída 5
+~~~~
+dwh t c. d. s. b a
+3
+c. = cohor
+d. = dkvwcsg
+s. = sqoqms
+~~~~
+#### Exemplo de Entrada 6
+~~~~
+abcd abc abc abc
+.
+~~~~
+#### Exemplo de Saída 6
+~~~~
+abcd a. a. a.
+1
+a. = abc
+~~~~~
+
+#### Exemplo de Entrada 7
+~~~~
+hoje eu programei em python
+.
+~~~~
+#### Exemplo de Saída 7
+~~~~
+h. eu p. em python
+2
+h. = hoje
+p. = programei
+~~~~
+
+#### Exemplo de Entrada 8
+~~~~
+mara mara mara cada cada, caso
+.
+~~~~
+#### Exemplo de Saída 8
+~~~~
+m. m. m. cada c. caso
+2
+c. = cada,
+m. = mara
+~~~~
+
+#### Exemplo de Entrada 9
+~~~~
+abc abc abc abc abc abc abc abc abc abc abcd
+abcdef abc abc abc
+dwh t cohor dkvwcsg sqoqms b a
+para para para cada cada, caso de teste imprima uma linha contendo a frase ja com as abreviacoesabreviacoesabreviac escolhidas e aplicadaspara
+.
+~~~~
+#### Exemplo de Saída 9
+~~~~
+a. a. a. a. a. a. a. a. a. a. abcd
+1
+a. = abc
+a. abc abc abc
+1
+a. = abcdef
+dwh t c. d. s. b a
+3
+c. = cohor
+d. = dkvwcsg
+s. = sqoqms
+p. p. p. cada cada, caso de t. i. u. l. c. a f. ja com as a. e. e aplicadaspara
+9
+a. = abreviacoesabreviacoesabreviac
+c. = contendo
+e. = escolhidas
+f. = frase
+i. = imprima
+l. = linha
+p. = para
+t. = teste
+u. = uma
+~~~~

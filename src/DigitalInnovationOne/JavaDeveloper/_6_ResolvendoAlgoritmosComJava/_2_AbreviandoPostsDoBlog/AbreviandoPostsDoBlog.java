@@ -21,7 +21,18 @@ public class AbreviandoPostsDoBlog {
             for (int i = 0; i < linhaSplited.length; i++) {
                 int finalI = i;
                 Boolean contemNaListaAbreviacao = abreviacoes.stream().anyMatch((elemento) -> elemento.getPrimeiraLetra().contains(linhaSplited[finalI].substring(0, 1)));
-                Boolean contemNaListaHistorico = historico.stream().anyMatch((elemento) -> elemento.getPrimeiraLetra().contains(linhaSplited[finalI].substring(0, 1)));
+                Boolean contemNaListaAbreviacaoExato = false;
+                for (int x = 0; x < abreviacoes.size(); x++) {
+                    if (abreviacoes.get(x).getPalavra().equals(linhaSplited[finalI])) {
+                        contemNaListaAbreviacaoExato = true;
+                    }
+                }
+                Boolean contemNaListaHistorico = false;
+                for (int x = 0; x < historico.size(); x++) {
+                    if (historico.get(x).getPalavra().equals(linhaSplited[finalI])) {
+                        contemNaListaHistorico = true;
+                    }
+                }
                 String a = linhaSplited[finalI];
                 for (int x = 0; x < abreviacoes.size(); x++) {
                     if (abreviacoes.get(x).getPrimeiraLetra().equals(linhaSplited[finalI].substring(0, 1))) {
@@ -34,28 +45,34 @@ public class AbreviandoPostsDoBlog {
                     }
                 }
                 if (linhaSplited[finalI].length() > 2 && contemNaListaAbreviacao) {//1 S
+                    if (contemNaListaHistorico) {
+                        historico.get(posicaoAtualListaHistorico).setEconomiaCaracteres(historico.get(posicaoAtualListaHistorico).getEconomiaCaracteres() + linhaSplited[finalI].length() - 2);
+                    }
+                    if (contemNaListaAbreviacaoExato) {
+                        abreviacoes.get(posicaoAtualListaAbreviacoes).setEconomiaCaracteres(abreviacoes.get(posicaoAtualListaAbreviacoes).getEconomiaCaracteres() + linhaSplited[finalI].length() - 2);
+                    }
                     if (linhaSplited[finalI].length() - 2 > abreviacoes.get(posicaoAtualListaAbreviacoes).getEconomiaCaracteres()) {//3 S
                         //4
                         abreviacoes.add(new Controle(linhaSplited[i], linhaSplited[i].substring(0, 1), linhaSplited[i].substring(2), linhaSplited[i].substring(2).length()));
                         historico.add(new Controle(abreviacoes.get(posicaoAtualListaAbreviacoes).getPalavra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getPrimeiraLetra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getRestantePalavra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getEconomiaCaracteres()));
                         abreviacoes.remove(abreviacoes.get(posicaoAtualListaAbreviacoes));
                     } else { //3 N
-                        if (contemNaListaHistorico) {//5 S
-                            historico.get(posicaoAtualListaHistorico).setEconomiaCaracteres(historico.get(posicaoAtualListaHistorico).getEconomiaCaracteres() + linhaSplited[finalI].length() - 2);// 7
-                            if (historico.get(posicaoAtualListaHistorico).getEconomiaCaracteres() > abreviacoes.get(posicaoAtualListaAbreviacoes).getEconomiaCaracteres()) { //8 S
-                                //9
-                                abreviacoes.add(new Controle(historico.get(posicaoAtualListaHistorico).getPalavra(), historico.get(posicaoAtualListaHistorico).getPrimeiraLetra(), historico.get(posicaoAtualListaHistorico).getRestantePalavra(), historico.get(posicaoAtualListaHistorico).getEconomiaCaracteres()));
-                                historico.add(new Controle(abreviacoes.get(posicaoAtualListaAbreviacoes).getPalavra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getPrimeiraLetra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getRestantePalavra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getEconomiaCaracteres()));
-                                historico.remove(historico.get(posicaoAtualListaHistorico));
-                                abreviacoes.remove(abreviacoes.get(posicaoAtualListaAbreviacoes));
-                            }
-                        } else { //5 N
+
+                        if (!contemNaListaHistorico) {//5 S
                             historico.add(new Controle(linhaSplited[i], linhaSplited[i].substring(0, 1), linhaSplited[i].substring(1), linhaSplited[i].substring(2).length()));//6
+                        }
+                        if (historico.get(posicaoAtualListaHistorico).getEconomiaCaracteres() > abreviacoes.get(posicaoAtualListaAbreviacoes).getEconomiaCaracteres() && contemNaListaHistorico) { //8 S
+                            //9
+                            abreviacoes.add(new Controle(historico.get(posicaoAtualListaHistorico).getPalavra(), historico.get(posicaoAtualListaHistorico).getPrimeiraLetra(), historico.get(posicaoAtualListaHistorico).getRestantePalavra(), historico.get(posicaoAtualListaHistorico).getEconomiaCaracteres()));
+                            historico.add(new Controle(abreviacoes.get(posicaoAtualListaAbreviacoes).getPalavra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getPrimeiraLetra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getRestantePalavra(), abreviacoes.get(posicaoAtualListaAbreviacoes).getEconomiaCaracteres()));
+                            historico.remove(historico.get(posicaoAtualListaHistorico));
+                            abreviacoes.remove(abreviacoes.get(posicaoAtualListaAbreviacoes));
                         }
                     }
                 } else { //1 N
                     if (linhaSplited[finalI].length() > 2) {
                         abreviacoes.add(new Controle(linhaSplited[i], linhaSplited[i].substring(0, 1), linhaSplited[i].substring(1), linhaSplited[i].substring(2).length()));//2
+                        historico.add(new Controle(linhaSplited[i], linhaSplited[i].substring(0, 1), linhaSplited[i].substring(1), linhaSplited[i].substring(2).length()));//2
                     }
                 }
             }
