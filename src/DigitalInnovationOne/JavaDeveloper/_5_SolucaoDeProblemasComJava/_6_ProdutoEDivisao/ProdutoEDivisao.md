@@ -63,3 +63,7 @@ O programa deve imprimir uma única linha contendo o resultado que deve ser exib
 ~~~~
 387420489
 ~~~~
+
+### Outra Solução
+
+https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ProdutoDivisao.java

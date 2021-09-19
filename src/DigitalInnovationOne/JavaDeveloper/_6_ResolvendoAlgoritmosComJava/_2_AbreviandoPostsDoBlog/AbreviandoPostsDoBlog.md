@@ -192,3 +192,34 @@ p. = para
 t. = teste
 u. = uma
 ~~~~
+
+#### Exemplo de Entrada 10
+~~~~
+a abc abc a
+.
+~~~~
+#### Exemplo de Saída 10
+~~~~
+a a. a. a
+1
+a. = abc
+~~~~
+
+### Links Ajuda:
+
+- Solução muito bem elaborada(pouca quantidade de código):
+  https://github.com/axell-brendow/inter-bootcamp-dio-2021-1/tree/main/practice-programming
+  
+- Artigo na DIO 
+ -  https://web.digitalinnovation.one/topics/desafio-abreviando-posts-do-blog-1?page=2&order=newest
+     -   https://github.com/cassio-kendi/desafios-dio/blob/master/Praticando%20programa%C3%A7%C3%A3o%20em%20Java/1%20-%20Abreviando%20posts%20do%20Blog/Explica%C3%A7%C3%B5es%20e%20Dicas.md
+  
+- Artigo na DIO Desafios da Inter
+  https://web.digitalinnovation.one/topics/e-isso-pessoal-espero-que-aproveitem-e-aprendam-bastante?back=%2Ftrack%2Finter-java-developer&page=1&order=oldest
+  
+Outras resoluções:
+
+https://github.com/printf-ana/desafios-DIO/commit/3f5e831f4cb5003a08e64f716bf6f766be07e293
+
+
+  

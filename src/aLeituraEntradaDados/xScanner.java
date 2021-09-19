@@ -6,8 +6,8 @@ public class xScanner {
 
     public static void main(String[] args) {
 //        exemploMixed();
-//        proximaLine();
-        exemploHasNext();
+        proximaLine();
+//        exemploHasNext();
     }
 
     public static void exemploMixed() {

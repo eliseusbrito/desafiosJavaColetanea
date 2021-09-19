@@ -54,3 +54,44 @@ Para cada operação do tipo 3 ou 4, seu programa deve produzir uma linha, conte
 4
 3
 ~~~~
+#### Exemplo de Entrada 3
+~~~~
+8 12
+1 1 5
+1 2 7
+1 3 7
+1 4 2
+1 5 5
+1 6 2
+1 7 1
+1 8 3
+3 6
+3 7
+4 6
+4 7
+~~~~
+#### Exemplo de Saída 2
+~~~~
+2
+1
+7
+7
+~~~~
+
+### Soluções 
+
+* https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Resolvendo%20Algoritmos%20com%20Java/TabuleiroSecreto.java
+* https://github.com/printf-ana/desafios-DIO/blob/main/Resolvendo%20Algoritmos%20com%20Java/O%20Tabuleiro%20Secreto/o-tabuleiro-secreto.java
+* Em JavaScript
+  https://github.com/trepichio/DIOBootcampNodejs-Desafios/blob/master/06-Resolvendo%20Algoritmos%20com%20JavaScript/Desafio-05.js
+  
+  
+
+
+### Forum de duvidas na internet
+ * https://pt.stackoverflow.com/questions/491412/performance-de-algor%C3%ADtmo-em-java
+ * http://5.9.10.113/65847220/otimiza%C3%A7%C3%A3o-de-c%C3%B3digo-em-java
+
+### Problema semelhante
+https://olimpiada.ic.unicamp.br/pratique/p2/2014/f2/frequencia/
+

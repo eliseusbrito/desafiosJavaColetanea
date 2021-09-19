@@ -15,6 +15,29 @@
 
 
 
+### Links de repositórios com Soluções de Desafios DIO - Digital Inovation One
+
+* JAVA
+
+https://github.com/Pleiterson/desafios-bootcamps-dio
+
+https://github.com/Igord22/Desafios-DIO-Inter-Java-Developer
+
+https://github.com/printf-ana/desafios-DIO
+
+https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Java
+
+https://github.com/lucasrmagalhaes/desafios-DIO
+
+* Outros interessantes:
+
+https://github.com/trepichio/DIOBootcampNodejs-Desafios
+
+https://github.com/Pleiterson
+
+https://github.com/lucasrmagalhaes/desafios-DIO
+
+
 
 ## Links para uso dentro das IDE's
 

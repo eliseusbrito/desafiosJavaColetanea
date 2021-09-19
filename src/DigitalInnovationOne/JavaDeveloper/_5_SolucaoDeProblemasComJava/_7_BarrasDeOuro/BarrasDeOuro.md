@@ -45,3 +45,12 @@ Seu programa deve produzir uma única linha com um inteiro representando a menor
 ~~~~
 10
 ~~~~
+
+
+### Links Ajuda
+
+https://web.digitalinnovation.one/topics/desafio-barras-de-outro?tab=forum&topic_type=all&back=%2Ftrack%2Fjava-developer&back_order=newest&back_page=1&page=1&order=oldest
+
+### Link outras soluções
+
+https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/BarrasOuro.java

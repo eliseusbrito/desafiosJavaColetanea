@@ -32,8 +32,16 @@ Para cada instância, imprima uma linha contendo o número 1 se o jogador pode g
 ~~~~
 
 
-###Mesmo desafio na URI
+### Mesmo desafio na URI
 https://www.urionlinejudge.com.br/judge/en/problems/view/1522
+
+### Outras Resoluções
+https://github.com/printf-ana/desafios-DIO/blob/main/Resolvendo%20Algoritmos%20com%20Java/Cora%C3%A7%C3%A3o%20das%20Cartas/coracao-das-cartas.java
+
+https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/1.%20Cora%C3%A7%C3%A3o%20das%20Cartas/Main.java
+
+https://github.com/trepichio/DIOBootcampNodejs-Desafios/blob/master/06-Resolvendo%20Algoritmos%20com%20JavaScript/Desafio-01.js
+
 
 ####Outros inputs
 https://www.udebug.com/URI/1522
