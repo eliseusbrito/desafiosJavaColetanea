@@ -1,21 +1,37 @@
 # Coletânia de Desafios em Java
 
+Repositório com objetivo de reunir os desafios em Java realizados nas plataformas da Digital Innovation One e URI, bem como assuntos relacionados.
+
+
+## [Desafios Digital Innovation One](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne)
+- [Aceleracao13Capgemini](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/Aceleracao13Capgemini)
+- [AceleracaoGFT_15](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/AceleracaoGFT_15)
+- [CapgeminiFullstackJavaAndAngular](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/CapgeminiFullstackJavaAndAngular)
+- [EverisNewTalentsJava](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisNewTalentsJava)
+- [EverisQualityAssuranceBeginner_3/_1_DesafiosIniciantesJava](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisQualityAssuranceBeginner_3/_1_DesafiosIniciantesJava)
+- [EverisSREE](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisSREE)
+- [GFTJava_AWSDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/GFTJava_AWSDeveloper)
+- [JavaDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/JavaDeveloper)
+- [SantanderFullStackDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/SantanderFullStackDeveloper)
+- [StartGFT](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/StartGFT)
+
+## [Desafios URI](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/URI)
+- Begginer
+- AD_HOC
+- Strings
 
 ## [Leitura e Entrada de Dados](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/aLeituraEntradaDados)
 
 - Descreve as principais classes do Java para entrada de dados e mostra exemplos de utilização.
 
-## [Desafios Digital Innovation One](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne)
-- Desafios dos Bootcamps da DIO
-
-## [Desafios URI](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/URI)
-- Desafios da URI
-
-<br></br>
-
-
-
-### Links de repositórios com Soluções de Desafios DIO - Digital Inovation One
+    - [Índice](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/aLeituraEntradaDados#%C3%ADndice)
+    - [Tipos de Entrada de Dados](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/aLeituraEntradaDados#tipos-de-entrada-de-dados)
+        - [Classe Scanner](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/aLeituraEntradaDados#classe-scanner)
+        - [Classe BufferedReader e StringTokenizer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/aLeituraEntradaDados#classe-bufferedreader-e-stringtokenizer)
+    - [Scanner vs. BufferedReader](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/aLeituraEntradaDados#scanner-vs-bufferedreader)
+    - [Exemplos de Necessidade e Utilização](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/aLeituraEntradaDados#exemplos-de-necessidade-e-utiliza%C3%A7%C3%A3o)
+    
+### Links de outros repositórios com Soluções de Desafios DIO - Digital Inovation One
 
 * JAVA
 
@@ -37,25 +53,3 @@ https://github.com/Pleiterson
 
 https://github.com/lucasrmagalhaes/desafios-DIO
 
-
-
-## Links para uso dentro das IDE's
-
-[Leitura e Entrada de Dados](../src/aleituraEntradaDados.md#índice)
-
-[Leitura e Entrada de Dados](../src/aLeituraEntradaDados/aEntradaDeDadosConsole.md)
-
-[Leitura e Entrada de Dados](..\src\aLeituraEntradaDados\aEntradaDeDadosConsole.md)
-
-
-[Leitura e Entrada de Dados](../src/aLeituraEntradaDados/aEntradaDeDadosConsole.md#índice)
-
-[Leitura e Entrada de Dados](/aLeituraEntradaDados/Readme.md#índice)
-
-[Leitura e Entrada de Dados](..\src\aLeituraEntradaDados\aEntradaDeDadosConsole.md#índice)
-
-
-
-src\aLeituraEntradaDados\aEntradaDeDadosConsole.md
-
-C:\temp3\desafiosJavaColetanea\src\aLeituraEntradaDados\aEntradaDeDadosConsole.md
