@@ -1,4 +1,4 @@
-package DigitalInnovationOne.EverisQualityAssuranceBeginner_3._1_DesafiosIniciantesJava;
+package DigitalInnovationOne.NTTDataQualityAssuranceBeginner_3._1_DesafiosIniciantesJava._1_Distancia;
 
 import java.util.Scanner;
 

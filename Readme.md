@@ -8,7 +8,7 @@ Repositório com objetivo de reunir os desafios em Java realizados nas plataform
 - [AceleracaoGFT_15](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/AceleracaoGFT_15)
 - [CapgeminiFullstackJavaAndAngular](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/CapgeminiFullstackJavaAndAngular)
 - [EverisNewTalentsJava](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisNewTalentsJava)
-- [EverisQualityAssuranceBeginner_3/_1_DesafiosIniciantesJava](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisQualityAssuranceBeginner_3/_1_DesafiosIniciantesJava)
+- [EverisQualityAssuranceBeginner3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisQualityAssuranceBeginner_3)
 - [EverisSREE](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisSREE)
 - [GFTJava_AWSDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/GFTJava_AWSDeveloper)
 - [JavaDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/JavaDeveloper)
@@ -44,6 +44,8 @@ https://github.com/printf-ana/desafios-DIO
 https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/Java
 
 https://github.com/lucasrmagalhaes/desafios-DIO
+
+https://github.com/tmshgb/DIO-pv-desafios-java
 
 * Outros interessantes:
 
