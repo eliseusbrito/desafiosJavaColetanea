@@ -1,0 +1,4 @@
+
+Desafio já resolvido em:
+
+src/DigitalInnovationOne/NTTDataQualityAssuranceBeginner_3/_1_DesafiosIniciantesJava/_1_Distancia/Distancia.md
