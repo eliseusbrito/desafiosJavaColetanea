@@ -1,4 +1,4 @@
-package DigitalInnovationOne.EverisNewTalentsJava2.PrimeirosDesafiosDeCodicoComJava._3_ValidacaoNota;
+package DigitalInnovationOne.EverisNewTalentsJava2._3_PrimeirosDesafiosDeCodicoComJava._3_ValidacaoNota;
 
 import java.util.Locale;
 import java.util.Scanner;

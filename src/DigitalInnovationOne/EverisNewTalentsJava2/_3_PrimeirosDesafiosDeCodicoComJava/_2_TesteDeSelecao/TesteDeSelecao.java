@@ -1,4 +1,4 @@
-package DigitalInnovationOne.EverisNewTalentsJava2.PrimeirosDesafiosDeCodicoComJava._2_TesteDeSelecao;
+package DigitalInnovationOne.EverisNewTalentsJava2._3_PrimeirosDesafiosDeCodicoComJava._2_TesteDeSelecao;
 
 import java.util.Scanner;
 
