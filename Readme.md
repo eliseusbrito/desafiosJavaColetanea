@@ -10,6 +10,7 @@ Repositório com objetivo de reunir os desafios em Java realizados nas plataform
 - [EverisNewTalentsJava](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisNewTalentsJava)
 - [EverisNewTalentsJava2](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisNewTalentsJava2)
 - [NTTDataQualityAssuranceBeginner3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/NTTDataQualityAssuranceBeginner_3)
+- [NTTDATANewTalentsJava3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/NTTDATANewTalentsJava3)
 - [EverisSREE](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisSREE)
 - [GFTJava_AWSDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/GFTJava_AWSDeveloper)
 - [JavaDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/JavaDeveloper)
