@@ -1,0 +1,3 @@
+## Desafio já resolvido em:
+
+src/DigitalInnovationOne/CapgeminiFullstackJavaAndAngular/_2_DesafiosNumericosJava/_3_FatorialSimples/FatorialSimples.md
