@@ -8,6 +8,7 @@ Repositório com objetivo de reunir os desafios em Java realizados nas plataform
 - [Aceleracao GFT_15](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/AceleracaoGFT_15)
 - [Amdocs Java Developer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/AmdocsJavaDeveloper) 
 - [Capgemini Full Stack Java And Angular](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/CapgeminiFullstackJavaAndAngular)
+- [Cognizant Java Developer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/CognizantJavaDeveloper)  
 - [Everis New Talents Java](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisNewTalentsJava)
 - [Everis New Talents Java2](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisNewTalentsJava2)
 - [NTTData Quality Assurance Beginner3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/NTTDataQualityAssuranceBeginner_3)
