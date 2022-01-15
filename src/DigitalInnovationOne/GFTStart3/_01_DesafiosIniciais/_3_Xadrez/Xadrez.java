@@ -1,4 +1,4 @@
-package DigitalInnovationOne.GFTStart3._3_Xadrez;
+package DigitalInnovationOne.GFTStart3._01_DesafiosIniciais._3_Xadrez;
 
 import java.util.Scanner;
 
