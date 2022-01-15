@@ -15,6 +15,7 @@ Repositório com objetivo de reunir os desafios em Java realizados nas plataform
 - [NTTDATA New Talents Java3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/NTTDATANewTalentsJava3)
 - [Everis SREE](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisSREE)
 - [GFTJava_AWSDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/GFTJava_AWSDeveloper)
+- [GFT Star #3 Java](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/GFTStar3)
 - [Java Developer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/JavaDeveloper)
 - [Santander Full Stack Developer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/SantanderFullStackDeveloper)
 - [Start GFT](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/StartGFT)
