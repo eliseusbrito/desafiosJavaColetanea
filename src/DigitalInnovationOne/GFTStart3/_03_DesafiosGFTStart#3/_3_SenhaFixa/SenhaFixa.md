@@ -1,0 +1,3 @@
+Igual ao desafio resolvido em:
+
+src/DigitalInnovationOne/NTTDATANewTalentsJava3/_2_ResolvendoDesafiosIntermediariosEmJava/_3_SenhaFixa/SenhaFixa.java
