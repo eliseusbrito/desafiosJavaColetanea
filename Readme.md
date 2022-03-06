@@ -11,14 +11,15 @@ Repositório com objetivo de reunir os desafios em Java realizados nas plataform
 - [Cognizant Java Developer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/CognizantJavaDeveloper)  
 - [Everis New Talents Java](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisNewTalentsJava)
 - [Everis New Talents Java2](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisNewTalentsJava2)
-- [NTTData Quality Assurance Beginner3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/NTTDataQualityAssuranceBeginner_3)
-- [NTTDATA New Talents Java3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/NTTDATANewTalentsJava3)
 - [Everis SREE](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/EverisSREE)
 - [GFTJava_AWSDeveloper](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/GFTJava_AWSDeveloper)
 - [GFT Start](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/StartGFT)
 - [GFT Star #3 Java](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/GFTStar3)
 - [Java Developer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/JavaDeveloper)
+- [NTTData Quality Assurance Beginner3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/NTTDataQualityAssuranceBeginner_3)
+- [NTTDATA New Talents Java3](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/NTTDATANewTalentsJava3)
 - [Santander Full Stack Developer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/SantanderFullStackDeveloper)
+- [Spread Java Developer](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/DigitalInnovationOne/SpreadJavaDeveloper)
 
 
 ## [Desafios URI](https://github.com/eliseusbrito/desafiosJavaColetanea/tree/master/src/URI)
